@@ -7,3 +7,8 @@ ___
 
 <img src="Images/FirstScreen.jpg" width="800">
 
+___
+
+* Second View Controller
+
+<img src="Images/Second%20Screen.jpg" width="800">
