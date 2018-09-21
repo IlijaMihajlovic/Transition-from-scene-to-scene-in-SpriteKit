@@ -14,7 +14,6 @@ ___
 <img src="Images/Second%20Screen.jpg" width="800">
 
 ## License
-___
 ```
 MIT License
 
